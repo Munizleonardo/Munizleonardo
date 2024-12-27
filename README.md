@@ -4,7 +4,6 @@
 
 - 🔭 Hoje trabalho com Certificação Digital e Suporte de TI (SQL).
 - 🌱 Estudando para me tornar um Engenheiro de Software.
-- 📫 Contate-me no e-mail: munizzleonardo@gmail.com
 - 😄 Pronomes: ele/dele
 
 <div style="display: inline_block"><br>

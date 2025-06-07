@@ -72,8 +72,6 @@ Hoje trabalho como Coordenador de TI e estou me especializando para me tornar um
 <br/>
 <br/>
 
----
-
 ### Estatísticas
 
 <p>

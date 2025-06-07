@@ -20,13 +20,6 @@ Hoje trabalho como Coordenador de TI e estou me especializando para me tornar um
             src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/Munizleonardo">
-        <img 
-            alt="Github" 
-            title="GitHub" 
-            src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/leonardo-muniz-ab17b718a/">
         <img 
             alt="Linkedin" 

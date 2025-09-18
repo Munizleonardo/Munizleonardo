@@ -1,9 +1,9 @@
 #  Leonardo Muniz
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor - Suporte Técnico - Coordenador TI`**
 
-Me chamo Leonardo Muniz Simões, tenho 28 anos e sou natural do Rio de Janeiro. Formado em Administração pela UVA. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na IBMR - RJ. <br> 
-Hoje trabalho como Coordenador de TI e estou me especializando para me tornar um Engenheiro de Software.
+Me chamo Leonardo Muniz, tenho 28 anos e sou natural do Rio de Janeiro. Formado em Administração e atualmente, estou cursando Engenharia de Software. <br> 
+Hoje atuo como Coordenador de TI.
 
 <p align="left">
     <a href="https://www.instagram.com/munizleonardo/">
@@ -56,30 +56,32 @@ Hoje trabalho como Coordenador de TI e estou me especializando para me tornar um
 />
 <img 
     align="left" 
+    alt="C" 
+    title="C"
+    style="padding-right: 5px;" 
+    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    style="padding-right: 5px;" 
+    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" 
+/>
+<img 
+    align="left" 
     alt="Git" 
     title="Git"
     style="padding-right: px;" 
     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
 />
-
-<br/>
-<br/>
-
-### Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    src="https://github-readme-stats.vercel.app/api?username=munizleonardo&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=munizleonardo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+    align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    style="padding-right: px;" 
+    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
+/>
 
-</p>
+<br/>
+<br/>

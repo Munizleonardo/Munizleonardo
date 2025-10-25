@@ -1,9 +1,17 @@
 #  Leonardo Muniz
 
-**`Desenvolvedor - Suporte Técnico - Coordenador TI`**
+**`Desenvolvedor - Suporte Técnico - Coordenador TI`**<br>
+**`Developer - Technical Support - IT Coordinator`**<br>
+**`Desarrollador - Apoyo Técnico - Coordinador de TI`**<br>
 
+##Versão Português## <br>
 Me chamo Leonardo Muniz, tenho 28 anos e sou natural do Rio de Janeiro. Formado em Administração e atualmente, estou cursando Engenharia de Software. <br> 
-Hoje atuo como Coordenador de TI.
+
+##English Version## <br>
+My name is Leonardo Muniz, I'm 28 years old and I'm from Rio de Janeiro. I have a degree in Business Administration and am currently studying Software Engineering. <br>
+
+##Versión Español## <br>
+Me llamo Leonardo Muniz, tengo 28 años y soy de Río de Janeiro. Soy licenciado en Administración de Empresas y actualmente estudio Ingeniería de Software.
 
 <p align="left">
     <a href="https://www.instagram.com/munizleonardo/">
@@ -31,22 +39,8 @@ Hoje atuo como Coordenador de TI.
 
 ---
 
-### Linguagens e Tecnologias
+### Tecnologias - Technologies - Tecnologías
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -56,10 +50,24 @@ Hoje atuo como Coordenador de TI.
 />
 <img 
     align="left" 
-    alt="C" 
-    title="C"
+    alt="Typescript" 
+    title="Typescript"
     style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" 
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
+/>
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    style="padding-right: 5px;" 
+    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    style="padding-right: 5px;" 
+    src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" 
 />
 <img 
     align="left" 
@@ -75,13 +83,5 @@ Hoje atuo como Coordenador de TI.
     style="padding-right: px;" 
     src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
 />
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    style="padding-right: px;" 
-    src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" 
-/>
 
-<br/>
 <br/>

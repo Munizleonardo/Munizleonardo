@@ -113,9 +113,9 @@ Me llamo Leonardo Muniz, tengo 28 años y soy de Río de Janeiro. Soy licenciado
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/munizleonardo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/munizleonardo/output/github-contribution-grid-snake.svg">
-    <img alt="Cobra animada comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/munizleonardo/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Munizleonardo/Munizleonardo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Munizleonardo/Munizleonardo/output/github-contribution-grid-snake.svg">
+    <img alt="Cobra animada comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/Munizleonardo/Munizleonardo/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </p>
 

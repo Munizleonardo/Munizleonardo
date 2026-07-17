@@ -1,7 +1,16 @@
-# Leonardo Muniz
-**`Desenvolvedor - Suporte Técnico - Coordenador TI`**<br>
-**`Developer - Technical Support - IT Coordinator`**<br>
-**`Desarrollador - Apoyo Técnico - Coordinador de TI`**<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:D946EF&height=200&section=header&text=Leonardo%20Muniz&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Automa%C3%A7%C3%B5es%20com%20n8n&descAlignY=58&descSize=18&descAlign=50" alt="Leonardo Muniz banner" width="100%" />
+</p>
+
+<p align="center">
+  <strong><code>Desenvolvedor - Suporte Técnico - Coordenador TI</code></strong><br>
+  <strong><code>Developer - Technical Support - IT Coordinator</code></strong><br>
+  <strong><code>Desarrollador - Apoyo Técnico - Coordinador de TI</code></strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D946EF&center=true&vCenter=true&width=600&lines=Sempre+em+evolu%C3%A7%C3%A3o...;Full-Stack+%7C+Automa%C3%A7%C3%B5es+com+n8n;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+</p>
 
 <details open>
 <summary><strong>🇧🇷 Português</strong></summary>
@@ -30,25 +39,13 @@ Me llamo Leonardo Muniz, tengo 28 años y soy de Río de Janeiro. Soy licenciado
 
 <p align="left">
     <a href="https://www.instagram.com/munizleonardo/">
-        <img
-            alt="Instagram"
-            title="Instagram"
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-        />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark" alt="Instagram" title="Instagram" />
     </a>
     <a href="https://x.com/muniizzleo">
-        <img
-            alt="X"
-            title="X"
-            src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
-        />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=x&theme=dark" alt="X" title="X" />
     </a>
     <a href="https://www.linkedin.com/in/leonardo-muniz-ab17b718a/">
-        <img
-            alt="Linkedin"
-            title="Linkedin"
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" alt="Linkedin" title="Linkedin" />
     </a>
 </p>
 
@@ -57,69 +54,69 @@ Me llamo Leonardo Muniz, tengo 28 años y soy de Río de Janeiro. Soy licenciado
 ## 🛠️ Tecnologias & Ferramentas
 ### Technologies & Tools · Tecnologías y Herramientas
 
-#### 💻 Linguagens de Programação
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### 🎨 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
-
-#### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge)
-![Webhooks](https://img.shields.io/badge/Webhooks-4B32C3?style=for-the-badge)
-![Server Actions](https://img.shields.io/badge/Server_Actions-111111?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Integrações Externas](https://img.shields.io/badge/Integra%C3%A7%C3%B5es_Externas-2E8B57?style=for-the-badge)
-
-#### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-#### 🔧 Versionamento
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-#### ☁️ Deploy e Infraestrutura
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-#### 🧰 Ferramentas
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge)
-![Gather](https://img.shields.io/badge/Gather-1B1B1B?style=for-the-badge)
-
-#### 🤖 Inteligência Artificial
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-#### 🖥️ Sistemas Operacionais
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
-#### 🌎 Idiomas
-![Português](https://img.shields.io/badge/Português-Nativo-009c3b?style=for-the-badge)
-![Inglês](https://img.shields.io/badge/Inglês-Avançado-002776?style=for-the-badge)
-![Espanhol](https://img.shields.io/badge/Espanhol-Básico-AA151B?style=for-the-badge)
+<table>
+<tr>
+<td width="190"><strong>💻 Linguagens</strong></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=js,ts&theme=dark&titles=true" alt="JavaScript, TypeScript" /></td>
+</tr>
+<tr>
+<td><strong>🎨 Front-end</strong></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=html,react,nextjs,tailwindcss,shadcn&theme=dark&titles=true" alt="HTML5, React, Next.js, Tailwind CSS, shadcn/ui" /></td>
+</tr>
+<tr>
+<td><strong>⚙️ Back-end</strong></td>
+<td>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,n8n,api&theme=dark&titles=true" alt="Node.js, n8n, REST API" /><br>
+<sub><em>+ Webhooks · Server Actions · Integrações com serviços externos</em></sub>
+</td>
+</tr>
+<tr>
+<td><strong>🗄️ Banco de Dados</strong></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,supabase&theme=dark&titles=true" alt="MySQL, PostgreSQL, Supabase" /></td>
+</tr>
+<tr>
+<td><strong>🔧 Versionamento</strong></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=git,github&theme=dark&titles=true" alt="Git, GitHub" /></td>
+</tr>
+<tr>
+<td><strong>☁️ Deploy</strong></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=vercel&theme=dark&titles=true" alt="Vercel" /></td>
+</tr>
+<tr>
+<td><strong>🧰 Ferramentas</strong></td>
+<td>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=figma,slack,hostinger,cursor&theme=dark&titles=true" alt="Figma, Slack, Hostinger, Cursor" /><br>
+<sub><em>+ Gather</em></sub>
+</td>
+</tr>
+<tr>
+<td><strong>🤖 Inteligência Artificial</strong></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt&theme=dark&titles=true" alt="Claude, OpenAI Codex" /></td>
+</tr>
+<tr>
+<td><strong>🖥️ Sistemas Operacionais</strong></td>
+<td><img src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,apple&theme=dark&titles=true" alt="Windows, Linux, iOS" /></td>
+</tr>
+<tr>
+<td><strong>🌎 Idiomas</strong></td>
+<td>
+<img src="https://hatscripts.github.io/circle-flags/flags/br.svg" width="26" height="26" alt="Português" title="Português"/> Português <sub>(Nativo)</sub>&nbsp;&nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/us.svg" width="26" height="26" alt="Inglês" title="English"/> Inglês <sub>(Avançado)</sub>&nbsp;&nbsp;
+<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="26" height="26" alt="Espanhol" title="Español"/> Espanhol <sub>(Básico)</sub>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 Atividade de Commits
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg">
+    <img alt="Cobra animada comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </p>
 
 ---

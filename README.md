@@ -1,37 +1,52 @@
-#  Leonardo Muniz
-
+# Leonardo Muniz
 **`Desenvolvedor - Suporte Técnico - Coordenador TI`**<br>
 **`Developer - Technical Support - IT Coordinator`**<br>
 **`Desarrollador - Apoyo Técnico - Coordinador de TI`**<br>
 
-##Versão Português## <br>
-Me chamo Leonardo Muniz, tenho 28 anos e sou natural do Rio de Janeiro. Formado em Administração e atualmente, estou cursando Engenharia de Software. <br> 
+<details open>
+<summary><strong>🇧🇷 Português</strong></summary>
+<br>
 
-##English Version## <br>
-My name is Leonardo Muniz, I'm 28 years old and I'm from Rio de Janeiro. I have a degree in Business Administration and am currently studying Software Engineering. <br>
+Me chamo Leonardo Muniz, tenho 28 anos e sou natural do Rio de Janeiro. Formado em Administração e atualmente, estou cursando Engenharia de Software.
 
-##Versión Español## <br>
+</details>
+
+<details>
+<summary><strong>🇺🇸 English</strong></summary>
+<br>
+
+My name is Leonardo Muniz, I'm 28 years old and I'm from Rio de Janeiro. I have a degree in Business Administration and am currently studying Software Engineering.
+
+</details>
+
+<details>
+<summary><strong>🇪🇸 Español</strong></summary>
+<br>
+
 Me llamo Leonardo Muniz, tengo 28 años y soy de Río de Janeiro. Soy licenciado en Administración de Empresas y actualmente estudio Ingeniería de Software.
+
+</details>
+<br>
 
 <p align="left">
     <a href="https://www.instagram.com/munizleonardo/">
-        <img 
-            alt="Instagram" 
-            title="Instagram" 
+        <img
+            alt="Instagram"
+            title="Instagram"
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
-    </a> 
+    </a>
     <a href="https://x.com/muniizzleo">
-        <img 
-            alt="X" 
+        <img
+            alt="X"
             title="X"
             src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
         />
-    </a> 
+    </a>
     <a href="https://www.linkedin.com/in/leonardo-muniz-ab17b718a/">
-        <img 
-            alt="Linkedin" 
-            title="Linkedin" 
+        <img
+            alt="Linkedin"
+            title="Linkedin"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
@@ -39,43 +54,76 @@ Me llamo Leonardo Muniz, tengo 28 años y soy de Río de Janeiro. Soy licenciado
 
 ---
 
-### Tecnologias - Technologies - Tecnologías
+## 🛠️ Tecnologias & Ferramentas
+### Technologies & Tools · Tecnologías y Herramientas
 
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" 
-/>
-<img 
-    align="left" 
-    alt="Typescript" 
-    title="Typescript"
-    style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" 
-/>
-<img 
-    align="left" 
-    alt="React" 
-    title="React"
-    style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    style="padding-right: 5px;" 
-    src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" 
-/>
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><path fill="#81CD39" d="M119.878 31.1164C124.797 28.3008 131.203 28.2883 136.117 31.1164C160.839 45.0855 185.569 59.0332 210.287 73.0108C214.937 75.6296 218.046 80.8038 217.999 86.1608V170.206C218.034 175.785 214.617 181.083 209.712 183.642C185.071 197.535 160.442 211.444 135.805 225.337C130.786 228.207 124.251 227.986 119.387 224.88C112 220.598 104.6 216.336 97.2121 212.058C95.7022 211.158 94.0004 210.442 92.9345 208.978C93.8766 207.708 95.5618 207.55 96.9309 206.995C100.014 206.014 102.847 204.44 105.679 202.913C106.396 202.423 107.27 202.611 107.957 203.049C114.274 206.671 120.536 210.399 126.874 213.986C128.226 214.767 129.595 213.73 130.751 213.086C154.931 199.419 179.141 185.805 203.318 172.134C204.214 171.703 204.709 170.752 204.636 169.771C204.653 142.046 204.64 114.317 204.645 86.5918C204.747 85.4785 204.103 84.455 203.096 83.999C178.541 70.1702 153.997 56.3205 129.446 42.4882C128.575 41.8893 127.426 41.8878 126.554 42.4837C102.002 56.3205 77.4638 70.1832 52.9124 84.011C51.9092 84.4675 51.236 85.4745 51.3554 86.5918C51.3596 114.317 51.3554 142.046 51.3554 169.775C51.2682 170.756 51.801 171.687 52.6906 172.109C59.2422 175.824 65.8024 179.513 72.3582 183.216C76.0516 185.203 80.5863 186.385 84.6555 184.862C88.2463 183.574 90.7633 179.909 90.6948 176.097C90.7288 148.534 90.6778 120.967 90.7203 93.4078C90.6309 92.1841 91.7912 91.1731 92.981 91.2885C96.1292 91.267 99.281 91.2461 102.429 91.297C103.743 91.267 104.647 92.5847 104.485 93.8174C104.472 121.555 104.519 149.293 104.464 177.03C104.472 184.423 101.435 192.467 94.5973 196.084C86.1737 200.447 75.7619 199.522 67.4399 195.338C60.2355 191.742 53.3603 187.498 46.2838 183.646C41.3661 181.101 37.966 175.782 38.0006 170.207V86.1608C37.949 80.6929 41.1825 75.4248 45.9764 72.8445C70.6133 58.9408 95.2461 45.0261 119.878 31.1164Z"/><path fill="#81CD39" d="M141.372 89.3351C152.117 88.6433 163.62 88.9255 173.289 94.2185C180.776 98.2754 184.926 106.789 185.058 115.106C184.849 116.227 183.676 116.846 182.605 116.769C179.488 116.765 176.369 116.812 173.252 116.748C171.929 116.799 171.161 115.58 170.995 114.411C170.099 110.431 167.928 106.49 164.183 104.57C158.433 101.692 151.767 101.837 145.497 101.897C140.92 102.139 135.998 102.536 132.12 105.227C129.143 107.266 128.239 111.382 129.301 114.697C130.303 117.077 133.05 117.845 135.299 118.553C148.248 121.94 161.97 121.602 174.672 126.059C179.931 127.876 185.075 131.409 186.875 136.915C189.23 144.295 188.198 153.115 182.947 159.039C178.689 163.914 172.488 166.568 166.303 168.009C158.075 169.844 149.536 169.891 141.18 169.076C133.323 168.18 125.146 166.116 119.081 160.763C113.894 156.259 111.361 149.241 111.612 142.469C111.672 141.325 112.811 140.527 113.907 140.621C117.046 140.596 120.186 140.587 123.325 140.626C124.58 140.536 125.509 141.62 125.574 142.802C126.152 146.593 127.577 150.573 130.884 152.82C137.264 156.937 145.271 156.655 152.577 156.77C158.63 156.502 165.425 156.421 170.364 152.42C172.97 150.138 173.742 146.32 173.038 143.036C172.275 140.263 169.374 138.971 166.883 138.126C154.1 134.083 140.224 135.55 127.565 130.977C122.425 129.161 117.455 125.727 115.481 120.447C112.726 112.974 113.988 103.73 119.789 98.0061C125.445 92.312 133.609 90.1192 141.372 89.3346V89.3351"/></svg>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    style="padding-right: px;" 
-    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" 
-/>
+#### 💻 Linguagens de Programação
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<br/>
+#### 🎨 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+
+#### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-025E8C?style=for-the-badge)
+![Webhooks](https://img.shields.io/badge/Webhooks-4B32C3?style=for-the-badge)
+![Server Actions](https://img.shields.io/badge/Server_Actions-111111?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Integrações Externas](https://img.shields.io/badge/Integra%C3%A7%C3%B5es_Externas-2E8B57?style=for-the-badge)
+
+#### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+#### 🔧 Versionamento
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### ☁️ Deploy e Infraestrutura
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+#### 🧰 Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-111111?style=for-the-badge)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge)
+![Gather](https://img.shields.io/badge/Gather-1B1B1B?style=for-the-badge)
+
+#### 🤖 Inteligência Artificial
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+#### 🖥️ Sistemas Operacionais
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+#### 🌎 Idiomas
+![Português](https://img.shields.io/badge/Português-Nativo-009c3b?style=for-the-badge)
+![Inglês](https://img.shields.io/badge/Inglês-Avançado-002776?style=for-the-badge)
+![Espanhol](https://img.shields.io/badge/Espanhol-Básico-AA151B?style=for-the-badge)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <em>Feito com 💙 por Leonardo Muniz</em>
+</p>
